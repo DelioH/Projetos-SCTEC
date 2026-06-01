@@ -1,4 +1,4 @@
-# Projetos-SCTEC
+# Mini-Projeto 01.06.2026
 
 Este é um projeto que foi escrito para fazer uma limpeza em um conjunto de dados de vendas, estruturado da seguinte forma:
 DATA: Data da compra;
