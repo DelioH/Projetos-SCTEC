@@ -19,7 +19,7 @@ PR_NOME: Nome do produto adquirido.
 
 O arquivo lido tem o nome: Base_Varejo.csv e está na pasta dados.
 
-Os seguintes passos foram realizados para limpeza e extração dos dados:
+Os seguintes passos foram realizados para limpeza e extração dos dados:  
 1 - Avaliação dos dados
 
 2 - Validação e exclusão de colunas sem nenhum valor
