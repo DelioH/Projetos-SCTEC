@@ -308,4 +308,4 @@ Fazer um teste de venda com 3 produtos, 2 duplicados: 1 na sequencia, e outro co
 \033[0m""")
 
 # Escreve os dados no arquivo de destino
-df_varejo.to_csv(r"dados\df_limpo.csv", index=False)
+df_varejo.to_csv(r"df_limpo.csv", index=False)
