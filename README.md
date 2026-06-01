@@ -36,7 +36,7 @@ Os seguintes passos foram realizados para limpeza e extração dos dados:
 
 Para cada passo executado, foi adicionado um cabeçalho e ao final uma pequena análise. Para cada etapa, o script pára afim de ser visualizado por quem estiver executando o script, bastando um <enter> para ir para o próximo passo.
 
-Ao fim, foi gerado um novo arquivo chamado df_limpo.csv na pasta dados.
+Ao fim, foi gerado um novo arquivo chamado df_limpo.csv na pasta principal.
 
 
 Insights obtidos:
